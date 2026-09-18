@@ -1,0 +1,5 @@
+git branch -v
+
+  bug-fix-revert 84f8ae1 Revert "Fix README footer typo"
+  bug-fix-typo   3ce7891 Fix README footer typo
+* main           84c3f1f Add Git CLI final project evidence
